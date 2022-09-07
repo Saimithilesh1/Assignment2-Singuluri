@@ -17,4 +17,11 @@ Orly Airport
 10. Turn left onto Bd Raspail
 11. Continue straight onto pont royal
 12. Turn right onto Quai Francois Mitterrand
+- Eiffel Tower
+- Cathedrale Notre-Dame De Paris
+- Musee D'Orsay
+- Musee De L'Orangerie
+- Palais Garnier
+- Place De La Concorde
+
 
