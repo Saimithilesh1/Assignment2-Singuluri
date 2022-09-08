@@ -45,7 +45,7 @@ Orly Airport
 
 > Write a code to Strip HTML Tags in JavaScript
 
-[Strip HTML from Text JavaScript](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
+[Question](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
 ``` 
 const originalString = `
   <div>
