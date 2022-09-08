@@ -46,6 +46,7 @@ Orly Airport
 > Write a code to Strip HTML Tags in JavaScript
 
 [Question](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
+
 ``` 
 const originalString = `
   <div>
@@ -58,6 +59,6 @@ const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
 console.log(strippedString);
 ```
 
-[Strip HTML Tags in JavaScript](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
+[Code Snippet](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
 
 
