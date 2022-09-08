@@ -40,5 +40,24 @@ Orly Airport
 > "You never really understand a person until you consider things from his point of view. Until you climb inside of his skin and walk around in it" *-Harper Lee*
 
 > "I was never afraid of failure; for I would sooner fail than not be among the greatest" *-John Keats*
+---
+# Code fencing
+
+> Write a code to Strip HTML Tags in JavaScript
+
+[Strip HTML from Text JavaScript](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
+``` 
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+```
+
+[Strip HTML Tags in JavaScript](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
 
 
