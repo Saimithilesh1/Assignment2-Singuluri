@@ -35,4 +35,10 @@ Orly Airport
 | Mumbai           | Gateway of India  | 3hrs           |
 | Visakhapatnam    | RK Beach          | 2hrs           |
 
+---
+# Quotes
+> "You never really understand a person until you consider things from his point of view. Until you climb inside of his skin and walk around in it" *-Harper Lee*
+
+> "I was never afraid of failure; for I would sooner fail than not be among the greatest" *-John Keats*
+
 
