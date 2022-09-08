@@ -26,4 +26,13 @@ Orly Airport
 
 [AboutMefile](AboutMe.md)
 
+- - -
+# Tables
+| Name of the City | Location to visit | Amount of time |
+| ---              | ---               | ---            |
+| Hyderabad        | Golconda fort     | 2hrs           |
+| Chennai          | Marina Beach      | 1hr            |
+| Mumbai           | Gateway of India  | 3hrs           |
+| Visakhapatnam    | RK Beach          | 2hrs           |
+
 
